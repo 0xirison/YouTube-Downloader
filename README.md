@@ -14,7 +14,7 @@ python index.py
 ```
 
 # Features
-- Grab the title, thumbnail, video file size, qulaity, and video file available extensions of your selected video.
+- Grab the title, thumbnail, video file size, qulaity, and available extensions of the video file of your selected video.
 - Download the selected video.
 
 # Screenshot
