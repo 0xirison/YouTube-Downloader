@@ -414,9 +414,5 @@ QLabel {
    </property>
   </action>
  </widget>
- <resources>
-  <include location="C:/Users/A/Desktop/empty.qrc"/>
-  <include location="../../Desktop/empty.qrc"/>
- </resources>
  <connections/>
 </ui>

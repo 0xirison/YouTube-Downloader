@@ -10,11 +10,12 @@ pip3 install -r requirements.txt
 
 # Usage
 ```
-python index.py
+python youtube-downloader.py
 ```
 
 # Features
-- Grab the title, thumbnail, video file size, qulaity, and video file available extensions of your selected video.
+- Grab the title, thumbnail, video file size, qulaity, and available extensions of the video file of your selected video.
+- Checking download progress.
 - Download the selected video.
 
 # Screenshot
