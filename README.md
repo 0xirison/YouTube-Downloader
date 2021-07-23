@@ -6,7 +6,7 @@ Run the following commands:
 ```
 git clone https://github.com/0xirison/YouTube-Downloader.git
 ```
-then:
+Then:
 ```
 pip3 install -r requirements.txt
 ```
