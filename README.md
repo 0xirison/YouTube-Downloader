@@ -1,5 +1,5 @@
 # Introduction
-YouTube Downloader, a GUI program to download YouTube videos.
+YouTube Downloader, a GUI program to download YouTube videos based on the specified quality.
 
 # Installation
 Run the following commands:
