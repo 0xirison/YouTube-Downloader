@@ -32,7 +32,7 @@ class MainApp(QMainWindow, FORM_CLASS):
         self.setFixedSize(741,548)
 
     def handle_Buttons(self):
-        self.pushButton.clicked.connect(self.handle_Browse)
+        self.pushButton.clicked.connect(self.Directory_Browse)
         self.pushButton_2.clicked.connect(self.Download_Youtube_Video)
         self.pushButton_3.clicked.connect(self.Get_Video_Info)
 
@@ -66,7 +66,7 @@ Enjoy!
         QMessageBox.information(self, "About the Application", msg)
 
 
-    def handle_Browse(self):
+    def Directory_Browse(self):
         dir_path = QFileDialog.getExistingDirectory(self, "Select Download Directory", expanduser("~/Desktop"))
         self.lineEdit_2.setText(dir_path)
 
