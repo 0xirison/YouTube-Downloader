@@ -13,13 +13,10 @@ pip3 install -r requirements.txt
 python youtube-downloader.py
 ```
 
-# Features
+# Current Features
 - Grab the title, thumbnail, video file size, qulaity, and available extensions for the selected video.
 - Checking download progress.
 - Download the selected video.
-
-# Screenshot
-![alt text](https://i.postimg.cc/2yWNhWTn/youtube-downloader.png)
 
 # Upcoming Features:
 - Making the program multi-threaded
@@ -27,3 +24,7 @@ python youtube-downloader.py
 - Ability to download only audio from YouTube Videos
 - Cancel downloading button
 - Windows notification when a video is completetly downloaded 
+
+# Screenshot
+![alt text](https://i.postimg.cc/2yWNhWTn/youtube-downloader.png)
+
