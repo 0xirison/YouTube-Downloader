@@ -4,7 +4,7 @@ YouTube Downloader, a GUI program to download YouTube videos.
 # Installation
 Run the following commands:
 ```
-git clone https://github.com/0xIrison/YouTube-Downloader.git
+git clone https://github.com/0xirison/YouTube-Downloader.git
 pip3 install -r requirements.txt
 ```
 
