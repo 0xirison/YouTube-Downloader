@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 # Usage
 ```
-python index.py
+python youtube-downloader.py
 ```
 
 # Features
