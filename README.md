@@ -14,7 +14,7 @@ python youtube-downloader.py
 ```
 
 # Current Features
-- Grab the title, thumbnail, video file size, qulaity, and available extensions for the selected video.
+- Grab the title, thumbnail, video file size, quality, and available extensions for the selected video.
 - Checking download progress.
 - Download the selected video.
 
