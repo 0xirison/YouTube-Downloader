@@ -24,3 +24,5 @@ python index.py
 - Making the program multi-threaded
 - Ability to download YouTube playlists
 - Ability to download only audio from YouTube Videos
+- Cancel Downloading
+- Windows Notification when a video is downloaded completetly
