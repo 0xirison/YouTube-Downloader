@@ -19,3 +19,8 @@ python index.py
 
 # Screenshot
 ![alt text](https://i.postimg.cc/2yWNhWTn/youtube-downloader.png)
+
+# Upcoming Features:
+- Making the program multi-threaded
+- Ability to download YouTube playlists
+- Ability to download only audio from YouTube Videos
