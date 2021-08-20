@@ -1,5 +1,5 @@
 # Introduction
-YouTube Downloader, a GUI program to download YouTube videos based on the specified quality.
+YouTube Downloader, a GUI program to download YouTube videos based on the specified quality. It is built by Python using PyQt 6 Framework.
 
 # Installation
 Run the following commands:
